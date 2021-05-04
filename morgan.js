@@ -14,9 +14,9 @@ client.on('ready', () => {
     process.stdout.write('\033c')
     exec('title Ralph v1.0')
 
-    console.log(' -------------------------');
+    console.log(' -----------------------------');
     console.log(`  Logged In As ${client.user.tag}`);
-    console.log(' -------------------------');
+    console.log(' -----------------------------');
     console.log('');
     console.log(' -----------------------------');
     console.log('  Logging all Commands below:');
